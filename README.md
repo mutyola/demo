@@ -1,2 +1,3 @@
-# demo
-learning git and github
+## demo by @mutyola
+#learning git and github
+This is a demo, nothing serious.
