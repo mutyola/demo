@@ -1,6 +1,6 @@
-#### demo
+# demo
 ## learning git and github
 
-## notice
-# nothing serious here.
-# just for fun.
+# notice
+## nothing serious here.
+## just for fun.
