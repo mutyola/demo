@@ -1,5 +1,5 @@
 # demo
-## learning git and github
+## learning html,css and Javascript.
 
 # notice
 ## nothing serious here.
